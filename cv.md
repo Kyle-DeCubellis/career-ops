@@ -1,101 +1,109 @@
 # Kyle DeCubellis
 
-**East Coast, USA** | kyle@example.com | linkedin.com/in/kyle-decubellis | github.com/kyle-decubellis
+**Southborough, MA** | kyledecubellis@gmail.com | 401-741-7126 | linkedin.com/in/kdecubellis
 
 ---
 
 ## Summary
 
-Product leader with a mechanical engineering foundation who runs hardware and software simultaneously. At Raycon Global I own a full consumer audio portfolio spanning earbuds, open-ear, headphones, bone conduction, and an AI wearable — 18 active products in 2026, two direct reports, and five China-based manufacturing partners. I operate at the intersection of hardware development, firmware coordination, mobile app delivery, and AI integration. My edge is technical depth applied to product decisions: I decompile firmware binaries to hold vendors accountable, architect Claude API pipelines that process 60K+ reviews nightly, and negotiate contracts clause-by-clause — then go build the tools myself.
+Product and hardware leader with 15+ years building, launching, and scaling consumer electronics products from concept through mass production. Built Raycon's product organization from zero, driving end-to-end product strategy, China-based manufacturing operations, and DTC eCommerce growth to $100M+ revenue. 5 utility patents from 8 years at Bose. Currently building cross-platform iOS/Android BLE audio apps solo using AI development tools, delivering $200K+ in engineering value. Deep expertise in hardware/firmware/software integration, international supply chain management, and AI-powered product operations.
 
 ---
 
 ## Experience
 
-### VP of Product — Raycon Global
-**2023 – Present**
+### Raycon Global — Vice President of Product Strategy & Operations
+**New York (Remote) | 2021 – Present**
 
-Consumer audio electronics brand (DTC via Shopify, Amazon, and retail). Full ownership of roadmap, vendor relationships, launch operations, and product KPIs. Manage two direct reports (Senior PM + PM) and coordinate directly with five China-based manufacturing vendors.
+Promoted Director (2021) → Senior Director (2023) → VP (2024). Built product org from zero at bootstrapped DTC consumer electronics company.
 
-**Portfolio (18 active products, 2026):**
-- Earbuds: E25, E45, E60, E75, E95 (iFree/Sunflower)
-- Open Audio: O15, O20, O25, O55 Clip (Minami/Sunflower) — $50M revenue target
-- Bone Conduction: B42, B43, B45 (PIKEZ)
-- Headphones: H20 (Goldfingers)
-- AI Notetaker: M180 / Notes by Raycon (Neview hardware + 923 app team)
+- Own end-to-end product portfolio across audio, power tech, and AI categories — full P&L accountability including SKU planning, BOM cost management, pricing strategy, and margin optimization across 30+ active SKUs.
+- Manage China-based manufacturing partnerships across 7+ ODM/JDM vendors, overseeing full NPI process (EVT/DVT/PVT through MP) with specs-driven acceptance criteria, test plans, and quality protocols.
+- Built product organization from zero — scaled to 8 PMs and designers, establishing operating rhythms (OKRs, roadmaps, experimentation cadence, KPI dashboards) for consistent delivery across web, mobile, and platform engineering teams serving 2M+ users globally.
+- Defined multi-year platform strategy balancing customer-facing capabilities with foundational investments (APIs, data infrastructure, integration architecture, internationalization) — supporting $150M+ revenue growth.
+- Building cross-platform iOS and Android audio companion app solo using Claude Code — 14 BLE device integrations across 7 chipsets, both platforms, replacing $200–300K agency engagement.
+- Launched Raycon AI NoteTaker on Kickstarter, achieving 7x funding goal — net-new AI hardware category from concept through industrial design, firmware spec, and go-to-market.
+- Built AI-powered product operations stack: automated VOC analysis across 50K+ reviews, AI agents for competitive intelligence, generative content pipeline reducing creative production costs 60%.
+- Productized AI/ML capabilities including intelligent automation, personalized recommendation engines, and workflow orchestration systems using Claude, GPT-4, and agentic frameworks.
+- Drove omnichannel commerce strategy across DTC (Shopify), Amazon, TikTok Shop, and retail partners — owning merchandising, pricing, launch coordination, and customer lifecycle optimization.
+- Reduced operational workload 87% through AI/automation workflows spanning product analytics, customer insights, vendor communications, and reporting.
+- Championed voice of customer programs feeding product reviews, returns data, NPS, and support tickets directly into roadmap prioritization — improved portfolio ratings from 4.1 to 4.5+ stars.
+- Established product KPIs tied to business outcomes: 40% improvement in user onboarding completion, 25% lift in conversion via intelligent personalization, 18% increase in customer lifetime value through retention mechanics.
+- Led hypothesis-driven discovery process: lightweight customer research, MVP validation, and clear success metrics before full builds — ensuring focus on high-value problems.
+- Designed alpha/beta testing programs and co-development initiatives with key customers to de-risk product direction.
+- Built self-serve tooling and platform capabilities enabling non-technical teams to execute independently, reducing time-to-market from weeks to days.
 
-**2026 KPIs owned:** On-Time Launch Rate · Shopify Weighted Average Review Rating · Defective Return Rate (<3% per SKU via Loop Returns) · New Product Revenue Contribution · AI Notetaker $5M revenue target · Open Audio $50M revenue target
+**Automations built:**
 
-**Selected accomplishments:**
-
-- Launched Notes by Raycon AI Notetaker via Kickstarter (Feb 2026), Shopify (Mar 2026), and Amazon (Apr 2026) — concept to multi-channel launch including BLE device pairing, offline recording, AI transcription/summarization, and a subscription monetization stack ($9.99/mo or $99/yr via RevenueCat)
-- Designed and shipped a Review Classification Engine processing 60,000+ product reviews: Claude API taxonomy (22 complaint + 6 praise themes), nightly enrichment at ~900 reviews/30-min run, weekly Slack digests with anomaly detection and NPS tracking
-- Built a 13-country ROAS Calculator (Google Apps Script web app) with VAT modeling (inclusive/additive), exchange rates, warehouse assignments (DCL, ShipBob, S2P), and PC1/PC2/PC3 contribution margin layers
-- Built a resume screening automation (Jazz HR → Zapier → Claude API → Slack) scoring candidates across 5 dimensions with red/yellow/green routing to hiring-specific Slack channels
-- Conducted firmware binary analysis proving vendor's "cosmetic changes only" claim was false — 96–97% binary content changed, core BLE class grew 122% — used as evidence in vendor accountability escalation
-- Architected Notion-based company wiki: 31 product families, 174 SKUs, vendor directory, KPI database, and 2026 roadmap tracking across 18 products in Smartsheet
-- Negotiated 923 vendor maintenance contract — removed code-modification warranty void clause, added technical documentation requirements, secured 47-item credential handoff tracker
-- Conducted Shokz OpenFit Pro ANC patent portfolio analysis (WO2024119394A1) and identified Bose dormant patent (US11736853B2) as competitive threat
-- Identified trademark conflict with Pocket (YC W26) for Notetaker naming (USPTO Serial No. 99550373)
-
----
-
-## Automations Built
-
-| System | Stack | Scale / Impact |
-|--------|-------|----------------|
-| Review Classification Engine | Google Apps Script + Claude API + Sheets + Slack | 60K+ reviews classified, nightly, weekly Slack digests with anomaly detection |
+| System | Stack | Impact |
+|--------|-------|--------|
+| VOC / Review Classification Engine | Claude API + Google Apps Script + Sheets + Slack | 50K+ reviews classified nightly; anomaly detection; NPS tracking |
 | ROAS Calculator | Google Apps Script web app | 13 countries, VAT/FX/warehouse logic, PC1–PC3 margin layers |
-| Resume Screening Pipeline | Jazz HR → Zapier → Claude API → Slack + Sheets | 5-dimension scoring, auto-routed to hiring channels |
-| AI Meeting Summarization | Claude API + 7-metric scoring | Prompt variants tested; V5-Lite format optimized for mobile |
+| Resume Screening Pipeline | Jazz HR → Zapier → Claude API → Slack | 5-dimension scoring, auto-routed to hiring channels |
+| Generative Content Pipeline | Claude API + internal tooling | 60% reduction in creative production costs |
+| AI Competitive Intelligence | Claude API agents | Ongoing market monitoring |
 | Amazon Review Dashboard | React / Vite | Tab views, star filters, keyword search, lazy-loading |
-| Sunflower Weekly Notes | Claude skill + email aggregation | Structured vendor notes every Monday for Tuesday calls |
-| Creative Requests System | Notion + Slack webhook | Replaced Monday.com, status workflow, board + form views |
-| Sample Request System | Apps Script + Google Places API + Slack | Formatted warehouse requests via web form + Slack output |
 
 ---
 
-## Technical Skills
+### Hatch — Principal Product Manager
+**San Francisco (Remote) | 2020 – 2021**
 
-### Hardware & Product
-- **Consumer Hardware:** Full product lifecycle — earbuds, open-ear, headphones, bone conduction, AI wearables — from DFM to retail launch
-- **Firmware:** Binary hashing, entropy scanning, string extraction, version diffing, BLE UUID/opcode analysis
-- **BLE / Audio:** SDK evaluation, reconnect logic validation, OTA update testing, device binding architecture; driver selection (THD, sensitivity, Fo), frequency response, BOM analysis (N50 magnets, CCAW coils, PU+PEEK diaphragms)
-- **Mobile Architecture:** React Native, Kotlin/Jetpack Compose, SwiftUI — review and coordination level
-- **API Integration:** AssemblyAI, RevenueCat, Firebase, Claude API, OpenAI, Postmark, Sentry
-- **Patent & IP:** Prior art research, claim language review, USPTO TESS trademark screening
+Led mobile app and IoT platform strategy for the #1 registered baby device in the US — Rest, Rest+, Rest Mini, and Restore. 1M+ customers, 45K+ 5-star reviews, subscription-driven retention model.
 
-### Code I Write
-- **Google Apps Script** — Web apps, Sheets automation, time-based triggers, Slack webhooks
-- **Python** — pandas, openpyxl, firmware binary analysis, API integrations
-- **JavaScript / Node.js** — Web app UIs, Apps Script logic
-- **React / Vite** — Dashboard UIs, interactive web apps
-
-### Data & Analytics
-- Looker Studio dashboards (NPS, review analytics, product health)
-- 60K+ review analysis with custom 28-theme taxonomy
-- NPS derivation from star rating data with week-over-week tracking
-- Financial modeling: contribution margin, break-even ROAS, 13-country VAT and FX
-
-### Vendor & Supply Chain
-- China partner communication (iFree, Minami, PIKEZ, Goldfingers, Neview via Sunflower)
-- Dev shop evaluation and RFP scoring (Rootstrap, Thoughtbot, Softeq, Utility, HatchWorks)
-- Contract negotiation: SOW review, warranty clauses, credential handoffs
-- Factory coordination: sample requests, production planning, lead time management
-- Global logistics: tariff tracking, HTS codes, 13-country expansion
+- Defined end-to-end product experience from device setup through daily engagement and long-term retention — connected hardware, mobile app, and subscription content model working as a unified system.
+- Managed firmware roadmap (ESP32 platform), OTA updates, AWS cloud integration, and BLE/WiFi device reliability in partnership with embedded engineering.
+- Drove retail strategy for Target partnership including planogram positioning, packaging, and subscription attach experiments (monthly vs. annual) at point of sale.
+- Built Amplitude analytics frameworks tracking full user journey from unboxing through long-term engagement — reduced onboarding abandonment 35%.
+- Conducted deep qualitative and quantitative research to understand customer motivations and decision friction — translating insights directly into hardware and app product strategy.
 
 ---
 
-## Tools & Platforms
+### Bose Corporation — Senior Project Engineer / Product Owner
+**Framingham, MA | 2012 – 2020**
 
-**Expert:** Slack, Notion, Google Sheets, Google Drive, Gmail, Claude AI, Notion Databases
+8 years designing and launching consumer audio products. 5 utility patents. Shipped 5M+ units globally contributing to $1B+ revenue.
 
-**Advanced:** Google Apps Script, Zapier, Smartsheet, RevenueCat, AssemblyAI, Python, Looker Studio, Shopify, AWS (EC2/RDS/S3 — ops level), Figma, USPTO patent tools
-
-**Working:** React Native, Kotlin, SwiftUI, Firebase, SQL, NetSuite, Amazon Seller Central, Kalodata, Parabola.io, Jazz HR, GitHub
+- Led end-to-end product development of earbuds, headphones, and open-ear wearables through full lifecycle — concept, industrial design, prototyping, tooling, certification, and mass production.
+- Managed cross-functional teams of 15–30 across acoustics, firmware, industrial design, mobile app, and manufacturing through EVT/DVT/PVT milestones.
+- Coordinated manufacturing with China and Southeast Asia suppliers — component qualification, tooling, production ramp, and quality management at scale.
+- Drove hardware/software integration strategy including BLE connectivity, companion app experiences, and firmware update architecture.
+- Led global product launches across NA, Europe, and Asia with full regulatory compliance (FCC, CE, UL) and certification management.
+- Pioneered open-ear audio category and wearable health-adjacent products, navigating FDA-adjacent regulatory frameworks (ISO 14971, ISO 13485).
 
 ---
 
 ## Education
 
-**B.S. Mechanical Engineering**
+**B.S. Mechanical Engineering & Mathematics**
+Northeastern University, Boston, MA — May 2012
+
+---
+
+## Patents
+
+- US20210341762A1 — Modular acoustic systems (Issued 11/2022)
+- US10820088B2 — Active noise reduction earphone (Issued 10/2020)
+- US20170034615A1 — Integration of Sensors into Earphones (Issued 08/2017)
+- US9635448 B2 — T-shaped Joint in a headphone cord (Issued 04/2017)
+
+---
+
+## Technical Skills
+
+**Hardware & Product:**
+Consumer hardware lifecycle (concept to mass production) · EVT/DVT/PVT & NPI process · BLE/WiFi/IoT product development · Firmware roadmap ownership · DFM/DFT · Component qualification · FCC/CE/UL certification · ISO 14971 / ISO 13485
+
+**AI / Automation:**
+Claude Code · Claude API · LLMs / Agents · Zapier · Google Apps Script · Python · AI-powered product operations
+
+**Mobile & Software:**
+Cross-platform iOS/Android BLE apps · React Native · Kotlin/Jetpack Compose · SwiftUI · React/Vite · Node.js · Firebase · AWS (EC2/RDS/S3)
+
+**Commerce & Analytics:**
+DTC eCommerce (Shopify, Amazon, TikTok Shop) · Omnichannel strategy · ROAS modeling · P&L / unit economics · Amplitude · Looker Studio · NetSuite · RevenueCat · Loop Returns
+
+**Leadership:**
+PM team building & mentorship · OKRs / roadmaps · China manufacturing (7+ ODM/JDM vendors) · Cross-functional teams of 15–30 · Voice of customer programs · SKU planning
+
+**Expert tools:** Slack · Notion · Google Workspace · Claude AI · Smartsheet · Figma · USPTO patent tools · Amazon Seller Central · Shopify · GitHub
